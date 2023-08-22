@@ -1,0 +1,24 @@
+body{
+    color: rgb(233, 233, 233);
+    background-color: rgb(0, 0, 0);
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.ver {
+    color: red;
+}
+
+#azl {
+    color: blue;
+}
+
+.bra {
+    color: white;
+}
+
+.yel {
+    color:yellow
+}
